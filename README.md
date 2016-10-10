@@ -30,3 +30,6 @@ Follow these step in order to add the specified folder path to the RhinoPython p
 You can download those plug-ins by yourself here: <br />
 http://www.karamba3d.com/downloads <br />
 http://www.giuliopiacentino.com/weaverbird/
+
+- Documentation for NetworkX: <br />
+http://networkx.readthedocs.io/en/stable/
