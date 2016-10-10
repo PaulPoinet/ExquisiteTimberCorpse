@@ -2,7 +2,7 @@
 Shared files for the CITAstudio workshop 'ExquisiteTimberCorpse'
 
 
-- PythonLibraries.7z
+- Python Libraries
 
 How to install:
 
@@ -20,3 +20,13 @@ Follow these step in order to add the specified folder path to the RhinoPython p
 
 
 - Grasshopper Plug-ins
+
+1) Unzip Gh_Plugins.7z
+2) Place the gha files into C:\Users\YOURUSERNAME\AppData\Roaming\Grasshopper\Libraries <br />
+(Don't forget to unblock the files)
+
+- Weaverbird and Karamba3D
+
+You can download those plug-ins by yourself here:
+http://www.karamba3d.com/downloads <br />
+http://www.giuliopiacentino.com/weaverbird/ <br />
