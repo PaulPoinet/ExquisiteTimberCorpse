@@ -31,5 +31,6 @@ You can download those plug-ins by yourself here: <br />
 http://www.karamba3d.com/downloads <br />
 http://www.giuliopiacentino.com/weaverbird/
 
-- Documentation for NetworkX: <br />
+- Documentation for NetworkX:
+
 http://networkx.readthedocs.io/en/stable/
